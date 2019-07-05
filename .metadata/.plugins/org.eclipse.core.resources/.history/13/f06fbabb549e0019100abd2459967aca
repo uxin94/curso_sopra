@@ -1,0 +1,10 @@
+package com.sopra.videoclub.ejercicioPelliculasDao;
+
+import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
+
+public class Factory {
+
+	private static IPeliculaDao<Pelicula> miPeliculaDao;
+	
+	
+}

@@ -1,0 +1,44 @@
+package com.sopra.videoclub.ejercicioPelliculasDao;
+
+import java.util.List;
+
+import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
+
+public class PeliculasDaoImpl implements IPeliculaDao {
+	
+	private List<Pelicula> miListaDePeliculas;
+
+	public void create(Pelicula pelicula) {
+
+		if(!miListaDePeliculas.contains(pelicula)) {
+			miListaDePeliculas.add(pelicula);
+		}
+		
+	}
+
+	public Pelicula update(Pelicula pelicula) {
+		if(miListaDePeliculas.remove(pelicula)) {
+			miListaDePeliculas.add(pelicula);
+		}
+		return pelicula;
+	}
+
+	public void delete(Pelicula pelicula) {
+		miListaDePeliculas.remove(pelicula);
+		
+	}
+
+	public Pelicula readById(Integer identificador) {
+		if(miListaDePeliculas.contains(identificador)){
+			int index = miListaDePeliculas.indexOf(identificador);
+			return miListaDePeliculas.get(index);
+		}
+		return null;
+	}
+
+	public List<Pelicula> read() {
+		
+		return miListaDePeliculas;
+	}
+
+}

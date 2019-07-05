@@ -1,0 +1,16 @@
+package com.sopra.videoclub.ejercicioPelliculasDao;
+
+
+public interface IPeliculaDao {
+	
+	void create(Pelicula pelicula);
+
+	void read(pelicula);
+
+	T update(T pelicula);
+	
+	void delete(T pelicula);
+
+	T readById(U identificador);
+
+}
