@@ -1,0 +1,38 @@
+package com.sopra.videoclub.ejercicioPeliculasNegocio;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
+import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
+import com.sopra.videoclub.ejercicioPelliculasDao.patterns.Factory;
+
+public class GestorPeliculas {
+
+	private IPeliculaDao peliculaDao;
+	
+	public GestorPeliculas() {
+		this.peliculaDao = Factory.getDaoDePelicula();
+	}
+	
+	public Pelicula altaPelicula(List<Pelicula>) {
+		
+	}
+	
+	public List<Pelicula> listaPeliculas(){
+		
+		return new ArrayList<Pelicula>(peliculaDao.read());
+
+	}
+	
+	public Pelicula updatePelicula(List<Pelicula>) {
+		
+		
+	}
+	
+	public void deletePelicula(List<Pelicula>) {
+		
+		
+	}
+	
+}

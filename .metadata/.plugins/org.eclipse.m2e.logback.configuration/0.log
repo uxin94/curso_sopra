@@ -422,3 +422,898 @@ java.io.FileNotFoundException: C:\Users\aula3m\.m2\repository\org\springframewor
 2019-07-05 08:47:59,789 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-05 08:47:59,789 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\main\resources
 2019-07-05 08:47:59,805 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:47:59,805 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 08:58:27,526 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:58:27,526 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\main\resources
+2019-07-05 08:58:27,542 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 08:58:27,542 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:01:55,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:01:55,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\main\resources
+2019-07-05 09:01:55,780 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:01:55,827 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:03:48,501 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:03:48,501 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\main\resources
+2019-07-05 09:03:48,501 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:03:48,517 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:10:11,157 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:10:11,157 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\main\resources
+2019-07-05 09:10:11,220 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:10:11,267 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:17:27,853 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:17:27,869 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 09:17:27,884 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:17:27,900 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:18:32,461 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 09:18:32,586 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.spring:ejemplo02spring:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\pom.xml.
+2019-07-05 09:18:32,805 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02spring/src/main/java
+2019-07-05 09:18:32,821 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo02spring/src/main/resources
+2019-07-05 09:18:32,899 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo02spring/src/test/java
+2019-07-05 09:18:33,274 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-05 09:18:34,356 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:18:34,356 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 09:18:34,372 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:18:34,403 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:21:57,730 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:21:57,730 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:21:57,761 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:21:57,761 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:21:57,901 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:21:57,917 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 09:21:57,917 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:21:57,917 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:24:01,011 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:24:01,027 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:24:01,027 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:24:01,027 [Worker-62: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:30:49,113 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:30:49,128 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:30:49,128 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:30:49,128 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:31:04,138 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:31:04,138 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:31:04,138 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:31:04,138 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:31:14,357 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:31:14,357 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:31:14,373 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:31:14,373 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:37:39,579 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:37:39,579 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:37:39,579 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:37:39,579 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:39:22,843 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:22,843 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:39:22,859 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:39:22,859 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:40:22,591 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:40:22,591 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:40:22,591 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:40:22,591 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:50:54,684 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:50:54,699 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:50:54,699 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:50:54,699 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:51:22,327 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:51:22,327 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:51:22,327 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:51:22,327 [Worker-72: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:52:49,487 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:49,502 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:52:49,534 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:52:49,534 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:53:57,057 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:53:57,057 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 09:53:57,057 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:53:57,057 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 09:55:24,599 [Worker-69: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:55:24,614 [Worker-69: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 09:55:24,630 [Worker-69: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 09:55:24,630 [Worker-69: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:07:50,343 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:07:50,343 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:07:50,343 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:07:50,343 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:08:02,092 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:08:02,092 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:08:02,107 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:08:02,107 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:10:05,463 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:10:05,463 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:10:05,479 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:10:05,479 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:20:08,596 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:08,611 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:20:08,611 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:08,611 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:20:24,648 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:24,648 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:20:24,648 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:24,648 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:20:59,133 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:59,148 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:20:59,148 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:20:59,148 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:25:14,014 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:25:14,014 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-07-05 10:25:14,014 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:25:14,014 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:47:23,002 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:47:23,002 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:47:23,018 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:47:23,018 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:49:15,402 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:49:15,402 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:49:15,402 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:49:15,402 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:50:44,292 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:44,308 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:50:44,323 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:44,323 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:50:58,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:58,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:50:58,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:50:58,407 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:51:23,536 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:51:23,552 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:51:23,567 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:51:23,567 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:53:01,109 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:53:01,109 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:53:01,109 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:53:01,109 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:54:08,969 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:54:08,969 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 10:54:08,984 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:54:08,984 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 10:57:40,146 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:57:40,146 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 10:57:40,146 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 10:57:40,146 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:01:47,549 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:01:47,549 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:01:47,565 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:01:47,565 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:04:43,159 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:04:43,159 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:04:43,159 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:04:43,159 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:06:09,027 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:09,058 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:06:09,074 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:06:09,074 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:08:31,477 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:08:31,477 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:08:31,493 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:08:31,493 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:09:24,671 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:24,671 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:09:24,687 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:09:24,718 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:10:46,076 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:10:46,076 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:10:46,076 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:10:46,076 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:12:22,784 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:12:22,800 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 11:12:22,800 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:12:22,800 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 11:13:46,763 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:13:46,763 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-07-05 11:13:46,763 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 11:13:46,763 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejemplo02spring\src\test\resources
+2019-07-05 12:02:21,360 [Worker-103: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Lanzador references closed project ejemplo02spring
+org.eclipse.core.runtime.CoreException: Launch configuration Lanzador references closed project ejemplo02spring
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 12:02:21,360 [Worker-103: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Lanzador references closed project ejemplo02spring
+org.eclipse.core.runtime.CoreException: Launch configuration Lanzador references closed project ejemplo02spring
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 12:02:21,391 [Worker-103: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Lanzador references closed project ejemplo02spring
+org.eclipse.core.runtime.CoreException: Launch configuration Lanzador references closed project ejemplo02spring
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710) ~[org.eclipse.jdt.launching_3.14.0.v20190508-0531.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.400.v20190516-1504.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186) [org.eclipse.debug.core_3.13.300.v20190514-0832.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82) [org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 12:02:29,032 [Worker-100: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 12:02:29,047 [Worker-100: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 12:03:13,739 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\pom.xml.
+2019-07-05 12:03:13,801 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:13,801 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 12:03:13,817 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:13,817 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 12:03:13,926 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\pom.xml.
+2019-07-05 12:03:13,926 [Worker-99: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 12:03:13,973 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:13,973 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 12:03:13,973 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:13,973 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 12:03:14,067 [Worker-99: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 12:03:14,082 [Worker-99: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 12:03:14,082 [Worker-99: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 12:03:14,082 [Worker-99: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 12:03:14,129 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:14,129 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 12:03:14,129 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:03:14,129 [Worker-99: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 12:12:59,312 [Worker-108: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 12:12:59,312 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:12:59,312 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 12:12:59,312 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:12:59,359 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 12:13:06,459 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:13:06,474 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 12:13:06,490 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:13:06,490 [Worker-107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 12:22:39,135 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:39,135 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 12:22:39,135 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:22:39,151 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 12:30:11,509 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:30:11,509 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 12:30:11,509 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:30:11,525 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 12:34:36,452 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:34:36,452 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 12:34:36,452 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:34:36,468 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 12:38:19,764 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:38:19,779 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 12:38:19,779 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:38:19,795 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 12:41:18,288 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:41:18,288 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 12:41:18,288 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:41:18,304 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 12:45:55,556 [Worker-128: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:45:55,571 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 12:51:25,467 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:51:25,467 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 12:51:25,467 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:51:25,467 [Worker-121: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 12:52:17,061 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:52:17,061 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 12:52:17,061 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:52:17,061 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 12:58:55,847 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:58:55,847 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 12:58:55,863 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 12:58:55,863 [Worker-131: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:07:12,387 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:07:12,387 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:07:12,387 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:07:12,387 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:07:39,343 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:07:39,343 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:07:39,359 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:07:39,359 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:08:12,113 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:08:12,113 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:08:12,113 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:08:12,113 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:08:12,144 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:08:12,160 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:08:12,160 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:08:12,160 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:10:30,612 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:10:30,612 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:10:30,612 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:10:30,612 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:15:47,616 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:15:47,616 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:15:47,616 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:15:47,632 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:17:40,863 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:17:40,863 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:17:40,863 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:17:40,863 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:18:08,264 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:18:08,280 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:18:08,280 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:18:08,280 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:25:24,597 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:25:24,597 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:25:24,597 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:25:24,597 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:25:45,103 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:25:45,103 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:25:45,119 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:25:45,119 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:30:58,778 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:30:58,778 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:30:58,778 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:30:58,778 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:31:18,941 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:31:18,941 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:31:18,956 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:31:18,956 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:33:33,328 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:33,328 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:33:33,328 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:33,328 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:33:36,291 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:36,291 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:33:36,307 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:33:36,307 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:40:28,060 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:40:28,060 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:40:28,060 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:40:28,060 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:41:39,563 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:41:39,563 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:41:39,563 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:41:39,579 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:41:39,594 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:41:39,594 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:41:39,594 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:41:39,594 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:43:21,429 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:21,429 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:43:21,445 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:43:21,445 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:44:06,968 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:44:06,968 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:44:06,968 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:44:06,968 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:44:13,593 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:44:13,593 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 13:44:13,609 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:44:13,609 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 13:50:12,424 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:50:12,424 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:50:12,424 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:50:12,424 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:50:45,510 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:50:45,510 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:50:45,526 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:50:45,526 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:51:41,299 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:51:41,299 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 13:51:41,299 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:51:41,299 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 13:51:46,580 [Worker-159: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:51:46,783 [Worker-159: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:51:46,799 [Worker-159: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 13:52:28,701 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:52:28,716 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:52:28,716 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:52:28,716 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:52:31,248 [Worker-157: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:52:31,263 [Worker-157: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:52:31,263 [Worker-157: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 13:53:03,099 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:53:03,099 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:53:03,099 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:53:03,115 [Worker-161: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:53:04,630 [Worker-162: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:53:04,630 [Worker-162: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:53:04,646 [Worker-162: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 13:53:19,842 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:53:19,858 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:53:19,858 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 13:54:46,047 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:54:46,047 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 13:54:46,047 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:54:46,047 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 13:54:52,657 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:54:52,672 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:54:52,672 [Worker-163: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 13:55:14,943 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:55:14,943 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:55:14,958 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:55:14,958 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:58:04,541 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:58:04,557 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 13:58:04,557 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 13:58:04,573 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 13:58:44,533 [Worker-161: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 13:58:44,533 [Worker-161: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 13:58:44,533 [Worker-161: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:01:03,455 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:03,455 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:01:03,470 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:03,470 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:01:03,502 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:03,502 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:01:03,517 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:03,517 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:01:49,162 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:49,162 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:01:49,178 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:01:49,178 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:05:06,525 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:06,525 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:05:06,525 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:06,541 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:05:10,010 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:10,010 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:05:10,010 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:10,025 [Worker-163: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:05:13,650 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:13,650 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:05:13,666 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:05:13,666 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:06:16,283 [Worker-166: Launching main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:06:16,283 [Worker-166: Launching main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:06:16,299 [Worker-166: Launching main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:06:16,299 [Worker-166: Launching main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:06:16,330 [Worker-166: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:06:16,330 [Worker-166: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:06:16,330 [Worker-166: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:07:32,582 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:32,582 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:07:32,582 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:32,582 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:07:32,613 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:32,613 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:07:32,613 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:32,628 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:07:39,847 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:39,847 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:07:39,847 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:07:39,863 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:07:41,925 [Worker-165: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:07:41,941 [Worker-165: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:07:41,941 [Worker-165: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:08:02,204 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:08:02,204 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:08:02,204 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:08:02,204 [Worker-166: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:08:04,142 [Worker-160: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:08:04,142 [Worker-160: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:08:04,158 [Worker-160: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:09:54,130 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:09:54,145 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:09:54,145 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:09:54,145 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:14:12,686 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:14:12,701 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:14:12,701 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:14:12,701 [Worker-164: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:14:14,764 [Worker-167: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:14:14,764 [Worker-167: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:14:14,779 [Worker-167: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:15:25,138 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:15:25,138 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:15:25,138 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:15:25,153 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:15:27,122 [Worker-171: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:15:27,122 [Worker-171: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier null to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:15:27,122 [Worker-171: Launching main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier null to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:24:47,420 [Worker-174: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:24:47,420 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:24:47,441 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:24:47,444 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:24:47,709 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:24:47,709 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:24:47,709 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:24:47,709 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:25:31,077 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:25:31,140 [Worker-174: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0.pom
+2019-07-05 14:25:31,140 [Worker-179: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0.pom
+2019-07-05 14:25:31,156 [Worker-174: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasNegocio:jar:1.0.0 is missing, no dependency information available
+2019-07-05 14:25:31,156 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasNegocio:jar:1.0.0 is missing, no dependency information available
+2019-07-05 14:25:32,863 [Worker-179: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0.jar
+2019-07-05 14:25:32,863 [Worker-174: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0.jar
+2019-07-05 14:25:32,910 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:32,926 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:25:32,926 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:32,926 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:25:33,912 [Worker-178: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasNegocio:jar:1.0.0 is missing, no dependency information available
+2019-07-05 14:25:34,167 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0-sources.jar
+2019-07-05 14:25:34,183 [Worker-178: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasNegocio:jar:sources:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:25:43,076 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\pom.xml.
+2019-07-05 14:25:43,123 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:25:43,170 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasModelo:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2019-07-05 14:25:43,186 [Worker-179: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:25:43,280 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\pom.xml.
+2019-07-05 14:25:43,358 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:25:43,358 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasNegocio:jar:1.0.0 is missing, no dependency information available
+2019-07-05 14:25:43,420 [Worker-179: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:0.0.1-SNAPSHOT @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:25:43,420 [Worker-179: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:25:43,691 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,691 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 14:25:43,691 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,691 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 14:25:43,738 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasModelo:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2019-07-05 14:25:43,754 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,754 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:25:43,754 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,754 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:25:43,770 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasModelo:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2019-07-05 14:25:43,770 [Worker-179: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:0.0.1-SNAPSHOT with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:25:43,785 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,785 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:25:43,785 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,785 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:25:43,801 [Worker-179: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPeliculasNegocio:jar:1.0.0 is missing, no dependency information available
+2019-07-05 14:25:43,816 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,816 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:25:43,816 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:43,816 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:25:44,691 [Worker-177: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasModelo:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:25:44,723 [Worker-177: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sopra.videoclub:ejercicioPeliculasModelo:0.0.1-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasModelo:jar:javadoc:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:25:44,926 [Worker-177: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasNegocio/1.0.0/ejercicioPeliculasNegocio-1.0.0-javadoc.jar
+2019-07-05 14:25:44,941 [Worker-177: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasNegocio:jar:javadoc:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:25:52,018 [Worker-177: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:25:52,206 [Worker-177: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPelliculasDao/1.0.0T/ejercicioPelliculasDao-1.0.0T.pom
+2019-07-05 14:25:52,206 [Worker-177: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:25:52,378 [Worker-177: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPelliculasDao/1.0.0T/ejercicioPelliculasDao-1.0.0T.jar
+2019-07-05 14:25:52,446 [Worker-177: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:25:52,446 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:25:52,743 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:52,758 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:25:52,758 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:52,758 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:25:52,805 [Worker-177: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:25:52,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:25:52,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:52,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:25:52,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:25:52,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:25:53,696 [Worker-178: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:25:53,899 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPelliculasDao/1.0.0T/ejercicioPelliculasDao-1.0.0T-sources.jar
+2019-07-05 14:25:53,915 [Worker-178: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sopra.videoclub:ejercicioPelliculasDao:1.0.0T
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPelliculasDao:jar:sources:1.0.0T
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:25:54,102 [Worker-178: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPelliculasDao/1.0.0T/ejercicioPelliculasDao-1.0.0T-javadoc.jar
+2019-07-05 14:25:54,149 [Worker-178: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sopra.videoclub:ejercicioPelliculasDao:1.0.0T
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPelliculasDao:jar:javadoc:1.0.0T
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:26:01,430 [Worker-177: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\pom.xml.
+2019-07-05 14:26:01,446 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:01,508 [Worker-177: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:26:01,508 [Worker-177: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:26:01,571 [Worker-177: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:26:01,571 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:26:01,805 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:26:01,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,821 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:26:01,852 [Worker-177: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:26:01,883 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,883 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:26:01,883 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,883 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:26:01,899 [Worker-177: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sopra.videoclub:ejercicioPelliculasDao:jar:1.0.0T is missing, no dependency information available
+2019-07-05 14:26:01,899 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:26:01,915 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,915 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:26:01,915 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:01,915 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:26:03,032 [Worker-177: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:03,032 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:03,032 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:26:03,048 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:03,048 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:26:07,876 [Worker-174: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:26:07,876 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:26:07,876 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:07,970 [Worker-174: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:26:07,985 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:26:07,985 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:26:07,985 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:08,064 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:08,064 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:26:08,079 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:08,079 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:08,110 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:26:09,314 [Worker-168: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:26:09,329 [Worker-168: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasModelo: com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0 with classifier  to /ejercicioPeliculasModelo/target/classes
+2019-07-05 14:26:09,329 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:09,345 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:26:09,360 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:09,360 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:26:09,501 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:09,517 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:26:09,517 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:09,517 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:26:38,463 [Worker-178: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasModelo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo
+2019-07-05 14:26:38,463 [Worker-178: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasModelo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-07-05 14:26:53,909 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:53,925 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 14:26:53,925 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:26:53,925 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 14:27:39,910 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:39,910 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 14:27:39,910 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:39,910 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 14:27:40,098 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,114 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:27:40,114 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,114 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:27:40,239 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,239 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:27:40,239 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,239 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:27:40,364 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,364 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:27:40,364 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:40,379 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:27:46,038 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,038 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 14:27:46,038 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,054 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 14:27:46,070 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,085 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:27:46,085 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,085 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:27:46,101 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,101 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:27:46,101 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,116 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:27:46,132 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,132 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:27:46,132 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:27:46,132 [Worker-177: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:27:57,207 [Worker-177: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasModelo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo
+2019-07-05 14:27:57,207 [Worker-177: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasModelo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-07-05 14:28:05,829 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:05,829 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\main\resources
+2019-07-05 14:28:05,829 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:05,829 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasModelo\src\test\resources
+2019-07-05 14:28:14,748 [Worker-177: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPelliculasDao] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao
+2019-07-05 14:28:14,763 [Worker-177: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPelliculasDao] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-07-05 14:28:21,551 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:21,551 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:28:21,567 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:21,567 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:28:37,301 [Worker-178: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasNegocio] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio
+2019-07-05 14:28:37,301 [Worker-178: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasNegocio] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-07-05 14:28:43,313 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:43,329 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:28:43,329 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:43,344 [Worker-180: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:28:49,891 [Worker-179: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasConsola] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola
+2019-07-05 14:28:49,891 [Worker-179: Launching Executing install in C__Users_aula3m_eclipse-workspace_videoclub_ejercicioPeliculasConsola] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-07-05 14:28:56,376 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:56,376 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:28:56,391 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:28:56,391 [Worker-181: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:29:04,289 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\pom.xml.
+2019-07-05 14:29:04,367 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\pom.xml.
+2019-07-05 14:29:04,367 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:04,430 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:29:04,445 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:29:04,445 [Worker-179: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:05,180 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,195 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\main\resources
+2019-07-05 14:29:05,195 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,211 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPelliculasDao\src\test\resources
+2019-07-05 14:29:05,383 [Worker-178: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:05,398 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,398 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\main\resources
+2019-07-05 14:29:05,398 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,398 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasNegocio\src\test\resources
+2019-07-05 14:29:05,508 [Worker-178: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPeliculasNegocio: com.sopra.videoclub:ejercicioPeliculasNegocio:1.0.0 with classifier  to /ejercicioPeliculasNegocio/target/classes
+2019-07-05 14:29:05,508 [Worker-178: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:05,508 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,508 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:29:05,523 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:05,523 [Worker-178: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:29:06,008 [Worker-177: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasModelo/1.0.0/ejercicioPeliculasModelo-1.0.0-sources.jar
+2019-07-05 14:29:06,070 [Worker-177: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasModelo:jar:sources:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:29:06,289 [Worker-177: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPeliculasModelo/1.0.0/ejercicioPeliculasModelo-1.0.0-javadoc.jar
+2019-07-05 14:29:06,305 [Worker-177: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.sopra.videoclub:ejercicioPeliculasModelo:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sopra.videoclub:ejercicioPeliculasModelo:jar:javadoc:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[org.eclipse.m2e.core_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) [org.eclipse.m2e.jdt_1.12.0.20190529-1916.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-07-05 14:29:09,180 [Worker-182: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:29:09,180 [Worker-182: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:09,820 [Worker-179: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ejercicioPelliculasDao: com.sopra.videoclub:ejercicioPelliculasDao:1.0.0 with classifier  to /ejercicioPelliculasDao/target/classes
+2019-07-05 14:29:09,820 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:09,820 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:29:09,836 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:09,836 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:29:11,773 [Worker-174: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sopra.videoclub:ejercicioPeliculasConsola:1.0.0 @ C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\pom.xml.
+2019-07-05 14:29:12,539 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:12,539 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\main\resources
+2019-07-05 14:29:12,555 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 14:29:12,570 [Worker-182: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aula3m\eclipse-workspace\videoclub\ejercicioPeliculasConsola\src\test\resources
+2019-07-05 14:29:13,336 [Worker-180: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sopra/videoclub/ejercicioPelliculasDao/1.0.0/ejercicioPelliculasDao-1.0.0-sources.jar

@@ -1,0 +1,14 @@
+package com.sopra.spring.ejemplo02spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class LanzadorConSpring {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("ej01.xml"); // Lee el archivo y los convierte en objetos
+		
+
+	}
+
+}

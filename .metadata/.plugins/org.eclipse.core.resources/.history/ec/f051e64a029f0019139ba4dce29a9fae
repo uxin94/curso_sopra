@@ -1,0 +1,7 @@
+package com.sopra.spring.ejemplo02spring.ej03;
+
+public class Licor {
+
+	private String nombre;
+	private String graduacion;
+}

@@ -4,15 +4,17 @@
 
   <groupId>com.sopra.videoclub</groupId>
   <artifactId>ejercicioPeliculasConsola</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>ejercicioPeliculasConsola</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+   <properties>
+ 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	    <maven.compiler.source>1.8</maven.compiler.source>
+	    <maven.compiler.target>1.8</maven.compiler.target>
+	 </properties>
 
   <dependencies>
     <dependency>
@@ -24,7 +26,7 @@
     <dependency>
     	<groupId>com.sopra.videoclub</groupId>
     	<artifactId>ejercicioPeliculasNegocio</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
+    	<version>1.0.0</version>
     </dependency>
   </dependencies>
 </project>

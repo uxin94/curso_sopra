@@ -12,8 +12,12 @@ public interface IPeliculaDao {
 
 	Pelicula update(Pelicula pelicula);
 	
-	void delete(Integer identificador);
+	List<Pelicula> delete(Integer identificador);
 
 	Pelicula readById(Integer identificador);
+	
+	
+	
+	
 
 }

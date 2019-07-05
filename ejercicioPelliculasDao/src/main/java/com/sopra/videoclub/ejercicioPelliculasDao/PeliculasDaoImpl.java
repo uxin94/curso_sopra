@@ -1,13 +1,21 @@
 package com.sopra.videoclub.ejercicioPelliculasDao;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 
 public class PeliculasDaoImpl implements IPeliculaDao {
 	
-	private List<Pelicula> miListaDePeliculas;
+	private List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>();
+	
+	public PeliculasDaoImpl(List<Pelicula> miListaDePeliculas) {
+		super();
+		this.miListaDePeliculas = miListaDePeliculas;
+	}
 
+	
+	
 	public void create(Pelicula pelicula) {
 
 		if(!miListaDePeliculas.contains(pelicula)) {
@@ -23,13 +31,13 @@ public class PeliculasDaoImpl implements IPeliculaDao {
 		return pelicula;
 	}
 
-	public void delete(Integer identificador) {
+	public List<Pelicula> delete(Integer identificador) {
 		for(int i = 0; i<miListaDePeliculas.size(); i++) {
 			if (miListaDePeliculas.get(i).getIdentificador().equals(identificador)) {
 				miListaDePeliculas.remove(i);
 			}
 		}
-		
+		return miListaDePeliculas;
 	}
 
 
@@ -48,5 +56,13 @@ public class PeliculasDaoImpl implements IPeliculaDao {
 		}
 		return pelicula;
 	}
-		
+
+	
+
+	
+	
+	
+	
+	
+	
 }

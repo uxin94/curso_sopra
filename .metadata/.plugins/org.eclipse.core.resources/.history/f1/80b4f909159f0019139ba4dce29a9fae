@@ -1,0 +1,29 @@
+package com.sopra.videoclub.ejercicioPeliculasConsola;
+
+import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
+import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
+
+public class main 
+{
+    public static void main( String[] args )
+    {
+        
+    	GestorPeliculas gestionPeliculas = new GestorPeliculas();
+    	
+    	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", "Terror");
+    	Pelicula pelicula2 = new Pelicula("tit2","dir2","sinop2", "Comedia");
+    	Pelicula pelicula3 = new Pelicula("tit3","dir3","sinop3", "Terror");
+    	Pelicula pelicula4 = new Pelicula("tit4","dir4","sinop4", "Drama");
+    	Pelicula pelicula5 = new Pelicula("tit5","dir5","sinop5", "Scifi");
+    	Pelicula pelicula6 = new Pelicula("tit6","dir6","sinop6", "Terror");
+    	Pelicula pelicula7 = new Pelicula("tit7","dir7","sinop7", "SciFi");
+    	Pelicula pelicula8 = new Pelicula("tit8","dir8","sinop8", "drama");
+    	Pelicula pelicula9 = new Pelicula("tit9","dir9","sinop9", "Comedia");
+    	Pelicula pelicula10 = new Pelicula("tit10","dir10","sinop10", "Terror");
+    	
+    	
+    	gestionPeliculas.altaPelicula(listaDePeliculas);
+    	
+    	
+    }
+}

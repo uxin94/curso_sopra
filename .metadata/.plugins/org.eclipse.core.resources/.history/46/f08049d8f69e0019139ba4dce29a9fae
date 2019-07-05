@@ -1,0 +1,10 @@
+package com.sopra.spring.ejemplo02spring;
+
+public class LanzadorConSpring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
