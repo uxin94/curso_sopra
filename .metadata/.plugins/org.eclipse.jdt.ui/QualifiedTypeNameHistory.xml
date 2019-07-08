@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+<fullyQualifiedTypeName name="com.sopra.spring.ejemplo02spring.ej01.BarDeCopas"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.sopra.spring.ejemplo02spring.ej02.Chorizo"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.sopra.spring.ejemplo02spring.ej03.Cubata"/>
+<fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPelliculasDao.patterns.Factory"/>
+<fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPeliculasModelo.Categorias"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao"/>
 <fullyQualifiedTypeName name="com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl"/>
-<fullyQualifiedTypeName name="java.awt.List"/>
 </qualifiedTypeNameHistroy>

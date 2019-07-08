@@ -5,13 +5,19 @@ import java.util.List;
 
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
-import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
+
 
 public class GestorPeliculas {
 
-	private List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>();
-	private IPeliculaDao peliculaDao = new PeliculasDaoImpl(miListaDePeliculas);
 	
+	private IPeliculaDao peliculaDao;
+	
+	public GestorPeliculas(IPeliculaDao peliculaDao) {
+		super();
+		this.peliculaDao = peliculaDao;
+	}
+
+
 	public Pelicula altaPelicula(List<Pelicula> listaDePeliculas) {
 		
 		for(int i=0; i < listaDePeliculas.size(); i++) {

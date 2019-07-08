@@ -7,13 +7,16 @@ import java.util.List;
 import com.sopra.videoclub.ejercicioPeliculasModelo.Categorias;
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
+import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
+import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
 
-public class main 
+public class LanzadorDePeliculasEnConsola 
 {
     public static void main( String[] args )
     {
-            	
-    	GestorPeliculas gestionPeliculas = new GestorPeliculas();
+       // IPeliculaDao miPeliculasDao = new PeliculasDaoImpl(new ArrayList<Pelicula>());
+    	//GestorPeliculas gestionPeliculas = new GestorPeliculas();
+    	GestorPeliculas gestionPeliculas = new GestorPeliculas(new PeliculasDaoImpl(new ArrayList<Pelicula>()));
     	List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>(); 
     	
     	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", Arrays.asList(Categorias.Comedia,Categorias.Drama));

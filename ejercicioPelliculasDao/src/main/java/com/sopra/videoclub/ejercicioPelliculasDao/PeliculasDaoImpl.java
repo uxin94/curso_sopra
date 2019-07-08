@@ -1,21 +1,20 @@
 package com.sopra.videoclub.ejercicioPelliculasDao;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 
 public class PeliculasDaoImpl implements IPeliculaDao {
 	
-	private List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>();
+	private List<Pelicula> miListaDePeliculas;
+
 	
 	public PeliculasDaoImpl(List<Pelicula> miListaDePeliculas) {
 		super();
 		this.miListaDePeliculas = miListaDePeliculas;
 	}
 
-	
-	
+
 	public void create(Pelicula pelicula) {
 
 		if(!miListaDePeliculas.contains(pelicula)) {
@@ -57,12 +56,5 @@ public class PeliculasDaoImpl implements IPeliculaDao {
 		return pelicula;
 	}
 
-	
-
-	
-	
-	
-	
-	
 	
 }

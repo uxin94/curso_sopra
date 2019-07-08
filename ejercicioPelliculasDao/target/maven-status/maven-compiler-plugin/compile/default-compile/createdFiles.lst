@@ -1,0 +1,3 @@
+com\sopra\videoclub\ejercicioPelliculasDao\patterns\Factory.class
+com\sopra\videoclub\ejercicioPelliculasDao\PeliculasDaoImpl.class
+com\sopra\videoclub\ejercicioPelliculasDao\IPeliculaDao.class

@@ -12,10 +12,7 @@ public class Pelicula {
 	private String sinopsis;
 	private List<Categorias> categorias;
 	
-	
-	
-	
-	
+		
 	@Override
 	public String toString() {
 		return "Pelicula [identificador=" + identificador + ", titulo=" + titulo + ", director=" + director
@@ -25,9 +22,7 @@ public class Pelicula {
 		numero = new AtomicInteger();	
 	}
 	
-	
-	
-	
+
 	public Pelicula(String titulo, String director, String sinopsis, List<Categorias> categorias) {
 		super();
 		this.identificador = numero.incrementAndGet();

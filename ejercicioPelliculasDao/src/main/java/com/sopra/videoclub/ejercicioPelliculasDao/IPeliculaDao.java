@@ -16,8 +16,4 @@ public interface IPeliculaDao {
 
 	Pelicula readById(Integer identificador);
 	
-	
-	
-	
-
 }
