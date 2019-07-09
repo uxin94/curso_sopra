@@ -3,7 +3,24 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+	<bean 
+	id="miLista"
+	class="java.util.ArrayList"
+	scope="prototype">
+	</bean>
 	
+	<bean 
+	id="miDao" 
+	class="com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl"
+	scope="singleton">
+		<constructor-arg ref="miLista"/>
+	</bean>
 
+	<bean
+	id = "miGestor"
+	class = "com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas"
+	scope = "singleton">
+		<constructor-arg ref="miDao"/>
+	</bean>
 
 </beans>

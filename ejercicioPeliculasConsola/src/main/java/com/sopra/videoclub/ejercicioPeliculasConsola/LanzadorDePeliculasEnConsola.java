@@ -4,20 +4,27 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 import com.sopra.videoclub.ejercicioPeliculasModelo.Categorias;
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
-import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
-import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
 
 public class LanzadorDePeliculasEnConsola 
 {
+	private static ApplicationContext context;
+	
+	static {
+		context = new ClassPathXmlApplicationContext("consola.xml");
+	}
+	
     public static void main( String[] args )
     {
-       // IPeliculaDao miPeliculasDao = new PeliculasDaoImpl(new ArrayList<Pelicula>());
-    	//GestorPeliculas gestionPeliculas = new GestorPeliculas();
-    	GestorPeliculas gestionPeliculas = new GestorPeliculas(new PeliculasDaoImpl(new ArrayList<Pelicula>()));
-    	List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>(); 
+     
+    	//GestorPeliculas gestionPeliculas = new GestorPeliculas(new PeliculasDaoImpl(new ArrayList<Pelicula>()));
+    	GestorPeliculas gestionPeliculas = context.getBean("miGestor", GestorPeliculas.class);    	    	
+  		List<Pelicula> miListaDePeliculas = context.getBean("miLista", List.class);
     	
     	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", Arrays.asList(Categorias.Comedia,Categorias.Drama));
     	miListaDePeliculas.add(pelicula1);
