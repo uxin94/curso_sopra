@@ -3,13 +3,16 @@ package com.sopra.videoclub.ejercicioPeliculasNegocio;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPelliculasDao.IPeliculaDao;
 
-
+@Service
 public class GestorPeliculas {
 
-	
+	@Autowired
 	private IPeliculaDao peliculaDao;
 	
 	public GestorPeliculas(IPeliculaDao peliculaDao) {

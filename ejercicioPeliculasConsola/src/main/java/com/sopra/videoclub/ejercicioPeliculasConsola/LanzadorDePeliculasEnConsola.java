@@ -16,16 +16,16 @@ public class LanzadorDePeliculasEnConsola
 	private static ApplicationContext context;
 	
 	static {
-		context = new ClassPathXmlApplicationContext("consola.xml");
+		context = new ClassPathXmlApplicationContext("beans.xml");
 	}
 	
     public static void main( String[] args )
     {
      
-    	//GestorPeliculas gestionPeliculas = new GestorPeliculas(new PeliculasDaoImpl(new ArrayList<Pelicula>()));
-    	GestorPeliculas gestionPeliculas = context.getBean("miGestor", GestorPeliculas.class);    	    	
-  		List<Pelicula> miListaDePeliculas = context.getBean("miLista", List.class);
-    	
+  	    	
+  		List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>();
+    	GestorPeliculas gestionPeliculas = context.getBean(GestorPeliculas.class);
+    	    	
     	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", Arrays.asList(Categorias.Comedia,Categorias.Drama));
     	miListaDePeliculas.add(pelicula1);
     	Pelicula pelicula2 = new Pelicula("tit2","dir2","sinop2", Arrays.asList(Categorias.Terror,Categorias.SciFi));
@@ -47,7 +47,7 @@ public class LanzadorDePeliculasEnConsola
     	Pelicula pelicula10 = new Pelicula("tit10","dir10","sinop10",Arrays.asList(Categorias.Terror,Categorias.SciFi));
     	miListaDePeliculas.add(pelicula10);
     	
-    	
+    	    	
     	gestionPeliculas.altaPelicula(miListaDePeliculas);
     	System.out.println(gestionPeliculas.listaPeliculas());
 

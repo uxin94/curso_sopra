@@ -2,18 +2,35 @@ package com.sopra.videoclub.ejercicioPelliculasDao;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Repository;
+
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 
+@Repository
+//@Scope("singleton")
 public class PeliculasDaoImpl implements IPeliculaDao {
 	
+	@Autowired
+	@Qualifier("listaDePeliculas")
 	private List<Pelicula> miListaDePeliculas;
 
 	
-	public PeliculasDaoImpl(List<Pelicula> miListaDePeliculas) {
-		super();
-		this.miListaDePeliculas = miListaDePeliculas;
+//	public PeliculasDaoImpl(@Qualifier("miLista")
+//			List<Pelicula> miListaDePeliculas) {
+//		super();
+//		this.miListaDePeliculas = miListaDePeliculas;
+//	}
+
+
+	public List<Pelicula> getMiListaDePeliculas() {
+		return miListaDePeliculas;
 	}
 
+	public void setMiListaDePeliculas(List<Pelicula> miListaDePeliculas) {
+		this.miListaDePeliculas = miListaDePeliculas;
+	}
 
 	public void create(Pelicula pelicula) {
 
