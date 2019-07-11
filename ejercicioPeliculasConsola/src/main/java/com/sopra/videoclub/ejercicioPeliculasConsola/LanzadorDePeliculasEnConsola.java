@@ -26,25 +26,25 @@ public class LanzadorDePeliculasEnConsola
   		List<Pelicula> miListaDePeliculas = new ArrayList<Pelicula>();
     	GestorPeliculas gestionPeliculas = context.getBean(GestorPeliculas.class);
     	    	
-    	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", Arrays.asList(Categorias.Comedia,Categorias.Drama));
+    	Pelicula pelicula1 = new Pelicula("tit1","dir1","sinop1", Arrays.asList(Categorias.COMEDIA,Categorias.DRAMA));
     	miListaDePeliculas.add(pelicula1);
-    	Pelicula pelicula2 = new Pelicula("tit2","dir2","sinop2", Arrays.asList(Categorias.Terror,Categorias.SciFi));
+    	Pelicula pelicula2 = new Pelicula("tit2","dir2","sinop2", Arrays.asList(Categorias.TERROR,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula2);
-    	Pelicula pelicula3 = new Pelicula("tit3","dir3","sinop3", Arrays.asList(Categorias.Terror,Categorias.Comedia));
+    	Pelicula pelicula3 = new Pelicula("tit3","dir3","sinop3", Arrays.asList(Categorias.TERROR,Categorias.COMEDIA));
     	miListaDePeliculas.add(pelicula3);
-    	Pelicula pelicula4 = new Pelicula("tit4","dir4","sinop4", Arrays.asList(Categorias.Drama,Categorias.SciFi));
+    	Pelicula pelicula4 = new Pelicula("tit4","dir4","sinop4", Arrays.asList(Categorias.DRAMA,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula4);
-    	Pelicula pelicula5 = new Pelicula("tit5","dir5","sinop5", Arrays.asList(Categorias.Terror,Categorias.SciFi));
+    	Pelicula pelicula5 = new Pelicula("tit5","dir5","sinop5", Arrays.asList(Categorias.TERROR,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula5);
-    	Pelicula pelicula6 = new Pelicula("tit6","dir6","sinop6", Arrays.asList(Categorias.Comedia,Categorias.Drama));
+    	Pelicula pelicula6 = new Pelicula("tit6","dir6","sinop6", Arrays.asList(Categorias.COMEDIA,Categorias.DRAMA));
     	miListaDePeliculas.add(pelicula6);
-    	Pelicula pelicula7 = new Pelicula("tit7","dir7","sinop7", Arrays.asList(Categorias.Comedia,Categorias.SciFi));
+    	Pelicula pelicula7 = new Pelicula("tit7","dir7","sinop7", Arrays.asList(Categorias.COMEDIA,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula7);
-    	Pelicula pelicula8 = new Pelicula("tit8","dir8","sinop8", Arrays.asList(Categorias.Comedia,Categorias.Drama));
+    	Pelicula pelicula8 = new Pelicula("tit8","dir8","sinop8", Arrays.asList(Categorias.COMEDIA,Categorias.DRAMA));
     	miListaDePeliculas.add(pelicula8);
-    	Pelicula pelicula9 = new Pelicula("tit9","dir9","sinop9", Arrays.asList(Categorias.Terror,Categorias.SciFi));
+    	Pelicula pelicula9 = new Pelicula("tit9","dir9","sinop9", Arrays.asList(Categorias.TERROR,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula9);
-    	Pelicula pelicula10 = new Pelicula("tit10","dir10","sinop10",Arrays.asList(Categorias.Terror,Categorias.SciFi));
+    	Pelicula pelicula10 = new Pelicula("tit10","dir10","sinop10",Arrays.asList(Categorias.TERROR,Categorias.SCIFI));
     	miListaDePeliculas.add(pelicula10);
     	
     	    	

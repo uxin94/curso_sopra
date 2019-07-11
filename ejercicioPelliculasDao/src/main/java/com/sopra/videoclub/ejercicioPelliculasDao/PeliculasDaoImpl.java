@@ -17,7 +17,12 @@ public class PeliculasDaoImpl implements IPeliculaDao {
 	private List<Pelicula> miListaDePeliculas;
 
 	
-//	public PeliculasDaoImpl(@Qualifier("miLista")
+	public PeliculasDaoImpl(List<Pelicula> miListaDePeliculas) {
+		super();
+		this.miListaDePeliculas = miListaDePeliculas;
+	}
+
+//	public PeliculasDaoImpl(@Qualifier("miLista"))
 //			List<Pelicula> miListaDePeliculas) {
 //		super();
 //		this.miListaDePeliculas = miListaDePeliculas;

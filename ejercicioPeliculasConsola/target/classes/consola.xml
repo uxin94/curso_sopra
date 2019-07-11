@@ -6,11 +6,11 @@
 	<bean id="miLista" class="java.util.ArrayList" scope="prototype">
 	</bean>
 
-	<bean id="miDao"
-		class="com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl"
-		scope="singleton">
-		<constructor-arg ref="miLista" />
-	</bean>
+<!-- 	<bean id="miDao" -->
+<!-- 		class="com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl" -->
+<!-- 		scope="singleton"> -->
+<!-- 		<constructor-arg ref="miLista" /> -->
+<!-- 	</bean> -->
 
 	<bean id="miGestor"
 		class="com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas"
