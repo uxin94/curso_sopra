@@ -4,7 +4,7 @@
   <groupId>com.sopra.web</groupId>
   <artifactId>ejercicioPeliculaWeb</artifactId>
   <packaging>war</packaging>
-  <version>1.3.1</version>
+  <version>1.3.2</version>
   <name>ejercicioPeliculaWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -20,17 +20,10 @@
    
    	<dependency>
   		<groupId>org.springframework</groupId>
-  		<artifactId>spring-web</artifactId>
+  		<artifactId>spring-webmvc</artifactId>
   		<version>${spring.framework.version}</version>
   		<scope>compile</scope>
- 	</dependency>
- 	<dependency>
-  		<groupId>org.springframework</groupId>
-  		<artifactId>spring-context</artifactId>
-  		<version>${spring.framework.version}</version>
-  		<scope>compile</scope>
- 	</dependency>
-   
+ 	</dependency>   
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -46,7 +39,7 @@
      <dependency>
     	<groupId>com.sopra.videoclub</groupId>
     	<artifactId>ejercicioPeliculasNegocio</artifactId>
-    	<version>1.3.1</version>
+    	<version>1.3.2</version>
     </dependency>
    
   </dependencies>

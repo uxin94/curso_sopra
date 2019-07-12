@@ -4,7 +4,7 @@
 
   <groupId>com.sopra.videoclub</groupId>
   <artifactId>ejercicioPeliculasConsola</artifactId>
-  <version>1.3.1</version>
+  <version>1.3.2</version>
   <packaging>jar</packaging>
 
   <name>ejercicioPeliculasConsola</name>
@@ -33,7 +33,7 @@
     <dependency>
     	<groupId>com.sopra.videoclub</groupId>
     	<artifactId>ejercicioPeliculasNegocio</artifactId>
-    	<version>1.3.1</version>
+    	<version>1.3.2</version>
     </dependency>
   </dependencies>
 </project>

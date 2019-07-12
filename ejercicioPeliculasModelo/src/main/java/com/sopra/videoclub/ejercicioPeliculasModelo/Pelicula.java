@@ -10,13 +10,13 @@ public class Pelicula {
 	private String titulo;
 	private String director;
 	private String sinopsis;
-	private List<Categorias> categorias;
+	//private List<Categorias> categorias;
 	
 		
 	@Override
 	public String toString() {
 		return "Pelicula [identificador=" + identificador + ", titulo=" + titulo + ", director=" + director
-				+ ", sinopsis=" + sinopsis + ", categorias=" + categorias + "]";
+				+ ", sinopsis=" + sinopsis; // + ", categorias=" + categorias + "]";
 	}
 	static {
 		numero = new AtomicInteger();	
@@ -29,7 +29,7 @@ public class Pelicula {
 		this.titulo = titulo;
 		this.director = director;
 		this.sinopsis = sinopsis;
-		this.categorias = categorias;
+		//this.categorias = categorias;
 	}
 	
 	
@@ -57,12 +57,12 @@ public class Pelicula {
 	public void setSinopsis(String sinopsis) {
 		this.sinopsis = sinopsis;
 	}
-	public List<Categorias> getCategorias() {
-		return categorias;
-	}
-	public void setCategorias(List<Categorias> categorias) {
-		this.categorias = categorias;
-	}
+//	public List<Categorias> getCategorias() {
+//		return categorias;
+//	}
+//	public void setCategorias(List<Categorias> categorias) {
+//		this.categorias = categorias;
+//	}
 	
 	
 	@Override

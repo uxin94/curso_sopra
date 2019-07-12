@@ -25,9 +25,7 @@ import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
 @WebServlet("/alta")
 public class DarDeAlta extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-   // public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();   
-    //public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(listaDePeliculas));
-	
+
 	private ApplicationContext context;
 	
 	@Override
