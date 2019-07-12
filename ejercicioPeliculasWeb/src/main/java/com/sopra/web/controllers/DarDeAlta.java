@@ -9,14 +9,13 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
 
 import org.springframework.context.ApplicationContext;
+import org.springframework.web.context.support.WebApplicationContextUtils;
 
 import com.sopra.videoclub.ejercicioPeliculasModelo.Categorias;
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
-import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
 
 /**
  * Servlet implementation class DarDeAlta
@@ -30,17 +29,20 @@ public class DarDeAlta extends HttpServlet {
     //public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(listaDePeliculas));
 	
 	private ApplicationContext context;
+	
+	@Override
+	public void init() throws ServletException {
+		
+		this.context = WebApplicationContextUtils.getRequiredWebApplicationContext(getServletContext());
+	}
+	
 	public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();
 	public static GestorPeliculas gestorDePeliculas; 
 	
     /**
      * @see HttpServlet#HttpServlet()
      */
-    
-    public DarDeAlta() {
-        super();
-    }
-
+ 
     
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
@@ -72,6 +74,6 @@ public class DarDeAlta extends HttpServlet {
 			}
 		}
 		
-		return categoriasDeLaPelicula; //Arrays.asList(COMEDIA,DRAMA);
+		return categoriasDeLaPelicula; 
 	}
 }
