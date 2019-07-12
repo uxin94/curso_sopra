@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>HOLA!</h2>
+<h2><%=request.getAttribute("listaDePelis")%></h2>
 </body>
 </html>

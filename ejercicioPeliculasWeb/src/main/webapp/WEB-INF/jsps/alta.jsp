@@ -7,8 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>TODO OK!</h2>
-<%
-%>
+<h2>Pelicula dada de alta!</h2>
+</br>
+<a href="listar">Lista de peliculas</a> 
+<!-- Hace una URL a la lista -->
 </body>
 </html>

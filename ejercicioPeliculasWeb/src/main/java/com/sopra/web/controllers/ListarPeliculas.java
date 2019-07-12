@@ -29,8 +29,7 @@ import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
 @WebServlet("/listar")
 public class ListarPeliculas extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-    public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();   
-    public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(listaDePeliculas));
+    public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(new ArrayList<Pelicula>()));
        
     /**
      * @see HttpServlet#HttpServlet()
@@ -47,8 +46,9 @@ public class ListarPeliculas extends HttpServlet {
     
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-
-		gestorDePeliculas.listaPeliculas();
+		
+		String lista = DarDeAlta.gestorDePeliculas.listaPeliculas().toString();
+		request.setAttribute("listaDePelis", lista);
 		getServletContext().getRequestDispatcher("/WEB-INF/jsps/listar.jsp").forward(request, response);
 	}
 
