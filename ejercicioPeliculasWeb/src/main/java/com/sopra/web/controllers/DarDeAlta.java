@@ -11,6 +11,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
+import org.springframework.context.ApplicationContext;
+
 import com.sopra.videoclub.ejercicioPeliculasModelo.Categorias;
 import com.sopra.videoclub.ejercicioPeliculasModelo.Pelicula;
 import com.sopra.videoclub.ejercicioPeliculasNegocio.GestorPeliculas;
@@ -24,9 +26,13 @@ import com.sopra.videoclub.ejercicioPelliculasDao.PeliculasDaoImpl;
 @WebServlet("/alta")
 public class DarDeAlta extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-    public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();   
-    public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(listaDePeliculas));
-    
+   // public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();   
+    //public static GestorPeliculas gestorDePeliculas = new GestorPeliculas(new PeliculasDaoImpl(listaDePeliculas));
+	
+	private ApplicationContext context;
+	public static List<Pelicula> listaDePeliculas = new ArrayList<Pelicula>();
+	public static GestorPeliculas gestorDePeliculas; 
+	
     /**
      * @see HttpServlet#HttpServlet()
      */
@@ -39,9 +45,11 @@ public class DarDeAlta extends HttpServlet {
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		Pelicula pelicula = new Pelicula(request.getParameter("titulo"), request.getParameter("director"), request.getParameter("sinopsis"), devolverListaDeCategoriasDesdeString(request.getParameter("cat")));
+		gestorDePeliculas = context.getBean(GestorPeliculas.class);
+    	Pelicula pelicula = new Pelicula(request.getParameter("titulo"), request.getParameter("director"), request.getParameter("sinopsis"), devolverListaDeCategoriasDesdeString(request.getParameter("cat")));
 		listaDePeliculas.add(pelicula);
 		gestorDePeliculas.altaPelicula(listaDePeliculas);
 		getServletContext().getRequestDispatcher("/WEB-INF/jsps/alta.jsp").forward(request, response);
