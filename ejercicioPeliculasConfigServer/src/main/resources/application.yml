@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: configServer  cloud:    config:      server:        git:          uri: c:\Users\aula3m\config-server-repo # Debe ser un repositorio totalmente nuevo
+server:  port: 8812
