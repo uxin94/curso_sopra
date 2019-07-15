@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sopra.web</groupId>
-  <artifactId>ejercicioPeliculaWeb</artifactId>
+  <artifactId>ejercicioPeliculasWeb</artifactId>
   <packaging>war</packaging>
   <version>1.3.2</version>
-  <name>ejercicioPeliculaWeb Maven Webapp</name>
+  <name>ejercicioPeliculasWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
   <properties>
@@ -45,7 +45,7 @@
   </dependencies>
   
   <build>
-	  <finalName>ejercicioPeliculaWeb</finalName>
+	  <finalName>ejercicioPeliculasWeb</finalName>
 	  <plugins>
 	   	<plugin>
 	     	<artifactId>maven-war-plugin</artifactId>

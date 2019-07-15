@@ -7,11 +7,10 @@
 <title>Da de alta una pelicula:</title>
 </head>
 <body>
-<form action="mostrarPeliculas">
+<form action="mostrar">
 	Titulo: <input type="text" name="titulo"></br>
 	Director: <input type="text" name="director"></br>
 	Sinopsis: <input type="text" name="sinopsis"></br>
-	Categorias: <input type="text" name="categorias"></br>
 	<input type="submit" value="Muestro la lista">
 </form>
 </body>

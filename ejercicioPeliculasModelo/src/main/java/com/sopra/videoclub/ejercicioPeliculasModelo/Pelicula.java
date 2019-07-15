@@ -16,14 +16,14 @@ public class Pelicula {
 	@Override
 	public String toString() {
 		return "Pelicula [identificador=" + identificador + ", titulo=" + titulo + ", director=" + director
-				+ ", sinopsis=" + sinopsis; // + ", categorias=" + categorias + "]";
+				+ ", sinopsis=" + sinopsis +"]"; // + ", categorias=" + categorias + "]";
 	}
 	static {
 		numero = new AtomicInteger();	
 	}
 	
 
-	public Pelicula(String titulo, String director, String sinopsis, List<Categorias> categorias) {
+	public Pelicula(String titulo, String director, String sinopsis) {
 		super();
 		this.identificador = numero.incrementAndGet();
 		this.titulo = titulo;

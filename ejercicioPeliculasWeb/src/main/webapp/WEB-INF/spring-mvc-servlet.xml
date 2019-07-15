@@ -10,10 +10,12 @@
 	<bean id="viewResolverJSP"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 		
-		<property name="prefix" value="/WEB-INF/vistas/"></property>
+		<property name="prefix" value="/WEB-INF/jsps/"></property>
 		<property name="suffix" value=".jsp"></property>
 	</bean>
 	<mvc:annotation-driven></mvc:annotation-driven>
+	<bean id="listaDePeliculas" class="java.util.ArrayList">	</bean>
 	<context:component-scan base-package="com.sopra.videoclub.ejercicioPelliculasDao"></context:component-scan>
 	<context:component-scan base-package="com.sopra.videoclub.ejercicioPeliculasNegocio"></context:component-scan>
+	<context:component-scan base-package="com.sopra.web.controllers"></context:component-scan>
 </beans>
